@@ -1,8 +1,9 @@
-# papi
-- backend server
+# P-API
+- Backend server
 
-## project structure
+## Project Structure
 
+```
 papi/
 ├── cmd/                      # Entry points for different services
 │   └── api/                  # Main API server application
@@ -79,3 +80,4 @@ papi/
 ├── go.sum                    # Dependency checksums
 ├── Makefile                  # Build, run, and clean commands
 └── README.md                 # Project overview and documentation
+```
