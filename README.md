@@ -1,10 +1,10 @@
-# P-API
+# Pharmatail-Backend
 - Backend server
 
 ## Project Structure
 
 ```
-papi/
+pharmatail-backend/
 ├── cmd/                      # Entry points for different services
 │   └── api/                  # Main API server application
 │       └── main.go
